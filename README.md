@@ -56,7 +56,7 @@ Columns in the Dataset:
 **STEP 03 - Key Insights Extraction:**
 - Correlation analysis to determine factors influencing churn.
 
-**STEO 04 - Recommendations:**
+**STEP 04 - Recommendations:**
 - Presented actionable insights to reduce churn and improve retention.
 
 ## 💡Tools and Technologies
