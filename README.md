@@ -5,6 +5,7 @@ By performing Exploratory Data Analysis (EDA), this project identifies key facto
 
 ## 📊 Dataset Description
 The dataset contains 64,374 customer records and provides comprehensive details about customer demographics, usage behavior, subscription details, and engagement levels.
+Dataset Link - [Customer Churn Dataset](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)
 Columns in the Dataset:
 - Age: Age of the customer.
 - Gender: Gender of the customer (e.g., Male, Female).
@@ -68,6 +69,6 @@ Columns in the Dataset:
 ## 👩‍💻 Author
 This project was completed by **Tawhidul Islam Sazid**, a passionate data analyst and machine learning enthusiast.
 Feel free to reach out for collaboration or feedback:  
-📧 Email: [tawhidulislam2590@gmail.com.com]  
+📧 Email: [tawhidulislam2590@gmail.com]  
 🌐 LinkedIn: [Tawhidul Islam Sazid](https://www.linkedin.com/in/sazid147/)  
 🐙 GitHub: [@Sazid](https://github.com/Sazid190012147)
